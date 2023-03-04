@@ -1,0 +1,62 @@
+{
+  "users": [
+    {
+      "name": "Rodney Oberbrunner",
+      "id": 30
+    }
+  ],
+  "albums": [
+    {
+      "userId": 30,
+      "title": "Licensed Granite Chair",
+      "id": 5
+    },
+    {
+      "userId": 30,
+      "title": "Sleek Steel Pants",
+      "id": 6
+    },
+    {
+      "userId": 30,
+      "title": "Handmade Rubber Gloves",
+      "id": 7
+    },
+    {
+      "userId": 30,
+      "title": "Elegant Fresh Cheese",
+      "id": 8
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=79589",
+      "id": 1
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1291",
+      "id": 2
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=54287",
+      "id": 3
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=60722",
+      "id": 4
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=45005",
+      "id": 5
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=460",
+      "id": 6
+    }
+  ]
+}
